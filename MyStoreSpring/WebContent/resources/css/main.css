@@ -1,0 +1,24 @@
+ @CHARSET "UTF-8";
+body{
+	
+	text-align: center;
+}
+.componenet{
+
+	border-width:2px;
+	
+	/* width:200px; */ 
+	float:left;
+	overflow: hidden;
+
+	margin:2px;
+	
+}
+.textRed{
+	color:red !important;
+}
+.centerBox{
+	
+	margin-left: 30%;
+	
+} 
